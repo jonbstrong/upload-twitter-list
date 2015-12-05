@@ -1,6 +1,7 @@
 # upload-twitter-list
 A script which converts an array of user handles into a twitter list
-Built to @kordianbruck
+
+Built by @kordianbruck on codementor.io
 
 ## How To Use
 Create your twitter list first
